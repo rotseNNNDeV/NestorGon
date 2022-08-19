@@ -5,4 +5,5 @@ body{
 #titulo{
     color: tomato;
     background-color:antiquewhite ;
+    text-align: right;
 }
