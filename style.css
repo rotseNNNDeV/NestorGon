@@ -16,6 +16,8 @@ body{
 a{
     color: tomato;
 }
+h2{text-align: right;}
 p{
     color: tomato;
+    text-align: right;
 }
