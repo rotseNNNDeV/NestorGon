@@ -5,3 +5,8 @@ body {
 h1{
     background-color: darkgray;
 }
+#menu{
+    text-align: Center;
+    color: aliceblue;
+    background-color: deepskyblue;
+}
