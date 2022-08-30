@@ -1,23 +1,4 @@
-body{
-    color: tomato;
-}
-#titulo{
-    color: tomato;
-    background-color:antiquewhite ;
-    text-align: right;
-    background-position: right;
-    }
-#menu{
-    text-align: left;
-    color: tomato;
-    background-color:antiquewhite ;
-    background-position: left;
-}
-a{
-    color: tomato;
-}
-h2{text-align: right;}
-p{
-    color: tomato;
-    text-align: right;
+body {
+    color: aliceblue;
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
 }
